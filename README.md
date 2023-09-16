@@ -2,7 +2,7 @@
 
 [![Downloads](https://img.shields.io/github/downloads/erasdevv/ErasAddon/total?color=Downlaods&style=for-the-badge)](https://github.com/erasdevv/ErasAddon/releases/tag/ErasAddon)
 
-[OUTDATED, DO NOT USE UNTIL NEW VERSIONS ARE OUT]
+OUTDATED, DO NOT USE UNTIL NEW VERSIONS ARE OUT
 
 # ErasAddon
 Meteor Client Addon, mainly developed for 1.19.x Crystal PVP purposes
